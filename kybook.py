@@ -68,6 +68,6 @@ def create_word_cloud():
 
 if __name__ == '__main__':
     #comment_spider()
-    bunch_comment_spider()
+    #bunch_comment_spider()
     create_word_cloud()
     
