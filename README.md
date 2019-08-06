@@ -1,1 +1,2 @@
-#### My own Python Spider Practice
+#### Spider for a Book comments on JD.com
+
